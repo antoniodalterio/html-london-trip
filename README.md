@@ -5,7 +5,7 @@ Nel documento sono riportate varie informazioni utili per un viaggio a Londra
 -Le spese.
 
 | Descrizone | Costo |
-| : ------------- | : ----------: |
+| : ------------- | : ---------- |
 | Biglietto Aereo | 120€ |
 | Biglietto Aereo | 120€ |
 | Biglietto Aereo | 120€ |
